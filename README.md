@@ -2,7 +2,7 @@
 
 Currently working on 
   1. Backend & 
-  2. Infrastructure managements. 
+  2. Infrastructural managements. 
 
 Planning to learn 
   1. NodeJS in the near future
