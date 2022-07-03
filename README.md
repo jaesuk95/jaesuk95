@@ -3,7 +3,7 @@
 Currently working on 
   1. Backend & 
   2. Infrastructure managements. 
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-Boot-#6DB33F?style=flat&logo=React&logoColor=white"/>
 
 Planning to learn 
   1. NodeJS in the near future
