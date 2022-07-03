@@ -11,7 +11,7 @@ Planning to learn
 I'm looking for
   1. perhaps a team to build/share our knowledge together (including every aspects front/devOps/web3/blockChain..etc)
 
-Some factual-facts~ about me
+Some factual-facts about myself
   1. My major is Naval Architecture (Bachelor of Engineering) which has nothing todo with coding. Oops did i just screw up my resumé?
   2. I just never give up 
   
