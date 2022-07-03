@@ -14,8 +14,9 @@ I'm looking for
 
 Some factual-facts about myself
   1. My major is Naval Architecture (Bachelor of Engineering) which has nothing todo with coding. Oops did i just screw up my resumé?
-  2. Giving up is not an option 
-  3. I just never give up
+  2. Born in South Korea, Graduated University degree in Australia
+  3. Giving up is not an option 
+  4. I just never give up
   
   
 <h3 align="left">Main Languages and Tools:</h3>
