@@ -6,7 +6,8 @@ Currently working on
 
 Planning to learn 
   1. NodeJS in the near future
-  2. Overall maybe I should get more familiar with JavaScript to understand 'frontend' in more depth 🤔
+  2. Maybe I should get more familiar with JavaScript and its' family tree to understand 'frontend' in more depth 🤔
+  3. Any suggestions would be terrific
   
 I'm looking for
   1. perhaps a team to build/share our knowledge together (including every aspects front/devOps/web3/blockChain..etc)
