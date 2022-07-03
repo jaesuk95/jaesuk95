@@ -3,7 +3,7 @@
 Currently working on 
   1. Backend & 
   2. Infrastructure managements. 
-
+<br>
 Planning to learn 
   1. NodeJS in the near future
   2. Overall maybe I should get more familiar with JavaScript to understand 'frontend' in more depth 🤔
