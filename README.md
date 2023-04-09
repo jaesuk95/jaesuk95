@@ -1,5 +1,5 @@
 <h2 align="left">Portfolio PDF :</h2>
-<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">github.com/jaesuk95/portfolio 보러가기</a>
+<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuk-portfolio.pdf">github.com/jaesuk95/portfolio 보러가기</a>
 
 
 
