@@ -29,7 +29,7 @@
 <p>이 프로젝트는 스프링부트 Microservice 아키텍처를 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커를 활용하였습니다. 도커 허브에 업로드한 후에는 Kubernetes Minikube 를 활용하여 배포를 진행하였습니다. </p>
 
 <p>Portfolio2 was carried out through self-study. Global online courses were conducted and this project was initiated with curiousity and an entrepreneurial mindset.</p>
-<p>This project utilises the Springboot Microservice architecture and employs Docker for containerising each applicaiton. After uploading on DockerHub, deployment was done by using Kubernetes Minikube.</p>
+<p>This project utilises the Springboot Microservice architecture and employs Docker for containerising each applicaiton. After uploading on DockerHub, deployments were done by using Kubernetes Minikube.</p>
 
 <h3 align="left">Languages and Tools:</h3>
        <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -46,7 +46,7 @@
 <a href="https://www.notion.so/Inflearn-MSA-bc2e8cac4a8a4f13bf4d52c350a88d7c?pvs=4">Springboot Microservice Architecture Notion 노트 보러가기</a><br>
 <a href="https://www.notion.so/Amigos-Kubernetes-281b18b75bcb481c87e4910c6765068b?pvs=4">Kubernetes Lecture Notion 노트 보러가기</a>
 
-<details>
+<!-- <details>
  <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
    I started my coding journey started with full of curisority...
-</details>
+</details> -->
