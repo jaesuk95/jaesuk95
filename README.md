@@ -20,8 +20,8 @@
         
 <h3 align="left">링크:</h3>       
 <a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">Portfolio PDF 보러가기</a><br>
-<a href="https://github.com/jaesuk95/portfolio-spring-java">Springboot 서버 repository 보러가기</a><br>
-<a href="https://github.com/jaesuk95/portfolio-sms-nodejs">NodeJS 서버 repository 보러가기</a>
+<a href="https://github.com/jaesuk95/portfolio-spring-java">Springboot Repository 보러가기</a><br>
+<a href="https://github.com/jaesuk95/portfolio-sms-nodejs">NodeJS Repository 보러가기</a>
 <br></br> 
 
 
@@ -44,9 +44,9 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="left">링크:</h3>       
-<a href="https://github.com/jaesuk95/portfolio2-msa">Springboot Microservices 보러가기</a><br>
-<a href="https://www.notion.so/Inflearn-MSA-bc2e8cac4a8a4f13bf4d52c350a88d7c?pvs=4">Springboot Microservice Architecture Notion 노트 보러가기</a><br>
-<a href="https://www.notion.so/Amigos-Kubernetes-281b18b75bcb481c87e4910c6765068b?pvs=4">Kubernetes Lecture Notion 노트 보러가기</a>
+<a href="https://github.com/jaesuk95/portfolio2-msa">Springboot Microservices Repository 보러가기</a><br>
+<a href="https://www.notion.so/Inflearn-MSA-bc2e8cac4a8a4f13bf4d52c350a88d7c?pvs=4">NOTION MSA 노트 보러가기</a><br>
+<a href="https://www.notion.so/Amigos-Kubernetes-281b18b75bcb481c87e4910c6765068b?pvs=4">NOTION Kubernetes 노트 보러가기</a>
 
 <!-- <details>
  <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
