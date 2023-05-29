@@ -1,7 +1,6 @@
 <h2 align="left">실무경험 PORTFOLIO :</h2>
 <p>실무에서의 경험을 바탕으로 구성된 포트폴리오를 소개합니다.</p> 
-<p>이 프로젝트는 REST API 기반으로 전체적으로 동작하며,</p> 
-<p>주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버로 구성되었습니다.</p>
+<p>이 프로젝트는 REST API 기반으로 전체적으로 동작하며, 주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버로 구성되었습니다.</p>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -28,7 +27,7 @@
 <h2 align="left">자가학습 PORTFOLIO2 :</h2>
 
 <p>Portfolio2 는 자가학습으로 진행되었습니다. 여러 해외 온라인 강의를 수료하였고, 이 프로젝트는 호기심과 창업적 사고로 시작되었습니다.</p>
-<p>이 프로젝트는 스프링부트 Microservice 아키텍처르 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커르 활용하였습니다. 도커 허브에 업로드한 후에느 Kubernetes Minikube 를 활용하여 배포르 진행하였습니다. </p>
+<p>Portfolio2 프로젝트는 스프링부트 Microservice 아키텍처를 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커를 활용하였습니다. 도커 허브에 업로드한 후에는 Kubernetes Minikube 를 활용하여 배포를 진행하였습니다. </p>
 
 <h3 align="left">Languages and Tools:</h3>
        <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
