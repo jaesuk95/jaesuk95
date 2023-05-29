@@ -21,9 +21,6 @@
 <h3 align="left">링크:</h3>       
 <a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">github.com/jaesuk95/portfolio 보러가기</a>
 
-
-
-#
 <h2 align="left">자가학습 PORTFOLIO2 :</h2>
 
 <p>Portfolio2 는 자가학습으로 진행되었습니다. 여러 해외 온라인 강의를 수료하였고, 이 프로젝트는 호기심과 창업적 사고로 시작되었습니다.</p>
@@ -41,6 +38,8 @@
 
 <h3 align="left">링크:</h3>       
 <a href="https://github.com/jaesuk95/portfolio2-msa">github.com/jaesuk95/portfolio2 보러가기</a>
+<a href="https://www.notion.so/Inflearn-MSA-bc2e8cac4a8a4f13bf4d52c350a88d7c?pvs=4">Springboot Microservice Architecture Notion 노트 보러가기</a>
+<a href="https://www.notion.so/Amigos-Kubernetes-281b18b75bcb481c87e4910c6765068b?pvs=4">Kubernetes Lecture Notion 노트 보러가기</a>
 
 <details>
  <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
