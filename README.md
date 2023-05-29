@@ -21,7 +21,7 @@
 <h3 align="left">링크:</h3>       
 <a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/Portfolio-이재석-Monolith.pdf">Github Portfolio PDF</a><br>
 <a href="https://github.com/jaesuk95/portfolio-spring-java">Github Springboot Repository</a><br>
-<a href="https://github.com/jaesuk95/portfolio-sms-nodejs">Github NodeJS Repository 보러가기</a>
+<a href="https://github.com/jaesuk95/portfolio-sms-nodejs">Github NodeJS Repository</a>
 <br></br> 
 
 
