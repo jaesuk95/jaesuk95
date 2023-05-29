@@ -1,4 +1,5 @@
 <h2 align="left">실무경험 PORTFOLIO :</h2>
+<p>실무에서의 경험을 바탕으로 구성된 포트폴리오 소개합니다. 이 프로젝트는 REST Api 기반으로 동작하며, 주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버르 구성되었습니다.</p>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
