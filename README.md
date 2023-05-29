@@ -25,11 +25,9 @@
 
 
 #
+<h2 align="left">자가학습 PORTFOLIO2 :</h2>
 
-<details>
- <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
-   I started my coding journey started with full of curisority...
-</details>
+<p>Portfolio2 는 자가학습으로 진행되었습니다. 여러 해외 온라인 강의르 수료하였고, 이 프로젝트는 호기심과 창업적 사고로 시작되었습니다.</p>
 
 <h3 align="left">Languages and Tools:</h3>
        <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -40,3 +38,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h3 align="left">링크:</h3>       
+<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">github.com/jaesuk95/portfolio2 보러가기</a>
+
+<details>
+ <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
+   I started my coding journey started with full of curisority...
+</details>
