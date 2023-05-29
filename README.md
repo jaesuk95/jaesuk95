@@ -40,7 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="left">링크:</h3>       
-<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">github.com/jaesuk95/portfolio2 보러가기</a>
+<a href="https://github.com/jaesuk95/portfolio2-msa">github.com/jaesuk95/portfolio2 보러가기</a>
 
 <details>
  <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
