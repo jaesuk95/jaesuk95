@@ -22,12 +22,14 @@
 <a href="https://github.com/jaesuk95/portfolio-spring-java">Springboot 서버 repository 보러가기</a><br>
 <a href="https://github.com/jaesuk95/portfolio-sms-nodejs">NodeJS 서버 repository 보러가기</a>
 <br></br> 
-<br>
 
 <h2 align="left">자가학습 PORTFOLIO2 :</h2>
 
 <p>Portfolio2 는 자가학습으로 진행되었습니다. 여러 해외 온라인 강의와 Inflearn 강의를 수료하였고, 이 프로젝트는 호기심과 창업적 사고로 시작되었습니다.</p>
-<p>Portfolio2 프로젝트는 스프링부트 Microservice 아키텍처를 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커를 활용하였습니다. 도커 허브에 업로드한 후에는 Kubernetes Minikube 를 활용하여 배포를 진행하였습니다. </p>
+<p>이 프로젝트는 스프링부트 Microservice 아키텍처를 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커를 활용하였습니다. 도커 허브에 업로드한 후에는 Kubernetes Minikube 를 활용하여 배포를 진행하였습니다. </p>
+
+<p>Portfolio2 was carried out through self-study. Global online courses were conducted and this project was initiated with curiousity and an entrepreneurial mindset.</p>
+<p>This project utilises the Springboot Microservice architecture and employs Docker for containerising each applicaiton. After uploading on DockerHub, deployment was done by using Kubernetes Minikube.</p>
 
 <h3 align="left">Languages and Tools:</h3>
        <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
