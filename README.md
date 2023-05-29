@@ -1,6 +1,6 @@
 <h2 align="left">실무경험 PORTFOLIO :</h2>
-<p>실무에서의 경험을 바탕으로 구성된 포트폴리오를 소개합니다.</p> 
-<p>이 프로젝트는 REST API 기반으로 전체적으로 동작하며, 주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버로 구성되었습니다.</p>
+<p>실무에서의 경험을 바탕으로 구성된 포트폴리오를 소개합니다.이 프로젝트는 REST API 기반으로 전체적으로 동작하며, 주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버로 구성되었습니다.</p>
+<p>The skills involved in this porfolio is based on practical IT work experience. This project operates entirely on a REST API foundation, with the main server consisting of a Springboot monolith architecture. The NodeJS server is an assistant application for message management.</p>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
