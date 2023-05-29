@@ -19,9 +19,11 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
         
 <h3 align="left">링크:</h3>       
+<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/230410-jaesuklee-portfolio.pdf">Portfolio PDF 보러가기</a><br>
 <a href="https://github.com/jaesuk95/portfolio-spring-java">Springboot 서버 repository 보러가기</a><br>
 <a href="https://github.com/jaesuk95/portfolio-sms-nodejs">NodeJS 서버 repository 보러가기</a>
 <br></br> 
+
 
 <h2 align="left">자가학습 PORTFOLIO2 :</h2>
 
