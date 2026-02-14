@@ -112,7 +112,7 @@ DGX 기반 로컬 추론 환경에서 안정적으로 구동되고 있습니다.
 <li>vLLM 기반 고성능 서빙</li>
 <li>Ollama 기반 모델 관리</li>
 <li>Fine-tuning 기초 이해 (LoRA / Dataset 구성)</li>
-<li>Hybrid RAG (BM25 + Embedding + Reranker)</li>
+<li>Hybrid RAG (BM25 + Vector Search + Reranker)</li>
 <li>On-prem AI Coding Assistant 환경 구축</li>
 </ul>
 
