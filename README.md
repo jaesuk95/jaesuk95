@@ -1,55 +1,159 @@
-<h2 align="left">실무경험 PORTFOLIO :</h2>
-<p>실무에서의 경험을 바탕으로 구성된 포트폴리오를 소개합니다.이 프로젝트는 REST API 기반으로 전체적으로 동작하며, 주요 서버는 스프링부트 (Monolith) 아키텍처와 메시지를 관리하는 NodeJS 서버로 구성되었습니다.</p>
-<p>The skills involved in this porfolio is based on practical IT work experience. This project operates entirely on a REST API foundation, with the main server consisting of a Springboot monolith architecture. The NodeJS server is an assistant application for message management.</p>
+<h1 align="center">Jaesuk Lee | AI Systems, Data & Backend Engineer</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-        
-<h3 align="left">링크:</h3>       
-<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/Portfolio-이재석-Monolith.pdf">Github Portfolio PDF</a><br>
-<a href="https://github.com/jaesuk95/portfolio-spring-java">Github Springboot Repository</a><br>
-<a href="https://github.com/jaesuk95/portfolio-sms-nodejs">Github NodeJS Repository</a>
-<br></br> 
+<p align="center">
+Microservices • IoT • Data Engineering • AI Modeling • On-Prem LLM Infrastructure
+</p>
 
+---
 
-<h2 align="left">자가학습 PORTFOLIO2 :</h2>
+<h2>🚀 소개 | About Me</h2>
 
-<p>Portfolio2 는 자가학습으로 진행되었습니다. 여러 해외 온라인 강의와 Inflearn 강의를 수료하였고, 이 프로젝트는 호기심과 창업적 사고로 시작되었습니다.</p>
-<p>이 프로젝트는 스프링부트 Microservice 아키텍처를 사용하였으며, 각 애플리케이션을 컨테이너화 하기 위해 도커를 활용하였습니다. 도커 허브에 업로드한 후에는 Kubernetes Minikube 를 활용하여 배포를 진행하였습니다. </p>
+<p>
+백엔드 개발자로 IT 커리어를 시작했으며, IoT 데이터 파이프라인,
+ AI 모델 설계 및 데이터 엔지니어링을 오늘날(26.02.14) 수행하고 있습니다. 
+</p>
 
-<p>Portfolio2 was carried out through self-study. Global online courses were conducted and this project was initiated with curiousity and an entrepreneurial mindset.</p>
-<p>This project utilises the Springboot Microservice architecture and employs Docker for containerising each application. After uploading on DockerHub, deployments were done by using Kubernetes Minikube.</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-       <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2>🖥 NVIDIA DGX 기반 개인 AI 서버 운영</h2>
 
-<h3 align="left">링크:</h3>       
-<a href="https://github.com/jaesuk95/portfolio-powerpoint-pdf/blob/main/Portfolio2-이재석-MSA.pdf">Github Portfolio2 PDF 보러가기</a><br>
-<a href="https://github.com/jaesuk95/portfolio2-msa">Github Springboot Microservices + K8S Minikube Repository</a><br>
-<a href="https://www.notion.so/Inflearn-MSA-bc2e8cac4a8a4f13bf4d52c350a88d7c?pvs=4">NOTION MSA 노트 보러가기</a><br>
-<a href="https://www.notion.so/Amigos-Kubernetes-281b18b75bcb481c87e4910c6765068b?pvs=4">NOTION Kubernetes 노트 보러가기</a>
+<p>
+NVIDIA DGX 워크스테이션을 개인 온프레미스 AI 서버로 운영하고 있습니다.
+</p>
 
-<!-- <details>
- <summary><h3>👨‍💻 나의 코딩 시작</h3></summary>
-   I started my coding journey started with full of curisority...
-</details> -->
+<ul>
+<li>vLLM 기반 고성능 추론 서버 운영</li>
+<li>Ollama 기반 Open-weight LLM</li>
+<li>Docker 기반 AI 오케스트레이션</li>
+<li>GPU 리소스 모니터링 및 최적화</li>
+<li>외부 API 없이 완전한 코드 보안 환경</li>
+</ul>
+
+<p>
+이 환경을 통해 LLM을 제 프로젝트와 직접 연동하여
+코드 분석, 아키텍처 설계 검토, 자동화 워크플로우 구성,
+Hybrid RAG 시스템 구축 등을 효율적으로 수행하고 있습니다.
+또한 외부 API를 사용하지 않기 때문에
+소스 코드 및 내부 데이터가 외부로 유출되지 않는
+완전한 온프레미스 AI 개발 환경을 유지하고 있습니다.
+</p>
+
+<p>
+<b>2026년 2월 14일 기준</b>, Ollama 로 설명드리면
+<b>qwen3-coder-next:q8_0 (80B)</b> 모델을 사용하고 있습니다.
+해당 모델은 대규모 코드 생성 및 리팩토링 작업에서
+최신 상용 대형 언어모델에 준하는 성능을 제공하며,
+DGX 기반 로컬 추론 환경에서 안정적으로 구동되고 있습니다.
+</p>
+
+---
+
+<h2>🏗 핵심 역량 | Core Expertise</h2>
+
+<h3>1️⃣ Cloud & IoT Architecture</h3>
+
+<ul>
+<li>MQTT (EMQX / Mosquitto / AWS IoT Core)</li>
+<li>AWS Kinesis Data Streams</li>
+<li>Edge > Cloud 데이터 수집 구조 설계</li>
+<li>고빈도 Telemetry / GPS 데이터 처리</li>
+<li>Data Lake 설계 (S3 / MinIO)</li>
+</ul>
+
+---
+
+<h3>2️⃣ Backend & Microservices</h3>
+
+<ul>
+<li>Monolith & MSA</li>
+<li>API Gateway / JWT 인증 시스템</li>
+<li>Payment System / 결제 시스템</li>
+<li>RabbitMQ / Kafka 메시징 아키텍처</li>
+<li>Redis 캐싱 전략</li>
+<li>Docker / Kubernetes</li>
+<li>AWS (EC2, Lambda, API Gateway, RDS, S3, ECR, Route53, AppRunner, 등등)</li>
+</ul>
+
+---
+
+<h3>3️⃣ Data Engineering</h3>
+
+<ul>
+<li>실시간 데이터 수집 및 스트리밍 처리</li>
+<li>ETL 파이프라인 설계</li>
+<li>대용량 시계열 데이터 처리</li>
+<li>IoT 데이터의 비순차 전송(Out-of-Order) 및 지연 처리 로직 구현</li>
+<li>Timestamp 기반 재정렬 및 중복 데이터 제거 처리</li>
+<li>네트워크 지연, 유실 상황을 고려한 데이터 정합성 유지</li>
+<li>SQL 기반 데이터 분석</li>
+<li>Python (Pandas, NumPy)</li>
+</ul>
+
+---
+
+<h3>4️⃣ AI Modeling & Optimization</h3>
+
+<ul>
+<li>LSTM 기반 시계열 예측</li>
+<li>XGBoost 회귀 및 Multi-output 모델링</li>
+<li>Gaussian Process Regression (GPR)</li>
+<li>PINN (Physics-Informed Neural Network)</li>
+<li>CGAN 기반 역방향 설계 모델</li>
+<li>SHAP 기반 XAI 해석</li>
+<li>Python / MATLAB 기반 모델 개발</li>
+</ul>
+
+---
+
+<h3>5️⃣ LLM & RAG Engineering</h3>
+
+<ul>
+<li>Open-weight LLM 로컬 운영 및 회사에 맞는 LLM 튜닝</li>
+<li>vLLM 기반 고성능 서빙</li>
+<li>Ollama 기반 모델 관리</li>
+<li>Fine-tuning 기초 이해 (LoRA / Dataset 구성)</li>
+<li>Hybrid RAG (BM25 + Embedding + Reranker)</li>
+<li>On-prem AI Coding Assistant 환경 구축</li>
+</ul>
+
+---
+
+<h2>🛠 기술 스택 | Technology Stack</h2>
+
+<b>Programming</b><br>
+Java • Python • MATLAB • Go • NodeJS
+
+<b>Cloud & Streaming</b><br>
+AWS IoT Core • Kinesis • S3 • EC2 • RDS
+
+<b>Infrastructure</b><br>
+Docker • Kubernetes • Linux • Nginx • NVIDIA DGX • Synology NAS ds723+
+
+<b>Messaging</b><br>
+RabbitMQ • Kafka • MQTT
+
+<b>AI & Modeling</b><br>
+GRU/LSTM/RNN/NN • PINN • XGBoost • Gaussian Process • CGAN • SHAP
+
+<b>LLM & RAG</b><br>
+vLLM • Ollama • Open-weight LLM • RAG • Hybrid Retrieval • GPU Inference • EXO(1.0)
+
+---
+
+<h2>🧭 돌아보며 정리한 저의 자신에 대한 일하는 성향입니다</h2>
+
+<ul>
+<li>주도적으로 문제를 정의하고 해결 방향 제시</li>
+<li>시스템의 근본 구조를 이해한 뒤 접근</li>
+<li>잠재적 리스크를 사전에 탐지하고 개선</li>
+<li>데이터 기반으로 가설을 검증하고 반복적으로 최적화</li>
+<li>단순한 구현보다 확장 가능한 구조 우선</li>
+<li>실수가 있더라도 학습과 보정을 통해 결국 올바른 방향</li>
+<li>수동적인 대응이 아닌, 개선을 주도하는 엔지니어를 지향</li>
+<li>MBTI : ISTJ (말 수 적고, 현실적이고, 논리적이고, 계획적입니다)</li>
+</ul>
+
+---
+
+<h3 align="center">긴 글을 읽어주셔서 감사합니다.</h3>
+
