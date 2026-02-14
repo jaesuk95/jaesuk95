@@ -149,7 +149,7 @@ vLLM • Ollama • Open-weight LLM • RAG • Hybrid Retrieval • GPU Inferen
 <li>데이터 기반으로 가설을 검증하고 반복적으로 최적화</li>
 <li>단순한 구현보다 확장 가능한 구조 우선</li>
 <li>실수가 있더라도 학습과 보정을 통해 결국 올바른 방향</li>
-<li>수동적인 대응이 아닌, 개선을 주도하는 엔지니어를 지향</li>
+<li>수동적인 대응이 아닌, 개선을 주도하는 엔지니어 지향</li>
 <li>MBTI : ISTJ (말 수 적고, 현실적이고, 논리적이고, 계획적입니다)</li>
 </ul>
 
